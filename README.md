@@ -10,8 +10,9 @@ HOW TO USE IT:
  - Change the route of your video or image in the code.
  - Put your path direction of the haar cascades in the code.
  - Be aware that the video is in mp4 format or the images are in jpg or png format.
+ - In case you want to track faces in images then create a folder with the images and add the path to the code.
  - Run te code.
- - A folder is going to be created automatically with the faces saved in it.
+ - A folder is going to be created automatically with the faces saved in it in case you want to track faces in video.
 
 TO RUN THIS CODE CORRECTLY YOU NEED TO HAVE:
 
