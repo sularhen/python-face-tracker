@@ -37,4 +37,6 @@ TO RUN THIS CODE CORRECTLY YOU NEED TO HAVE:
 - If you want to configure VS Code with a conda environment, you can find the necessary documentation at: https://docs.anaconda.com/working-with-conda/ide- tutorials/vscode/
 
 
+Feel free, to change this code and play with it,
+
 Sularhen.
