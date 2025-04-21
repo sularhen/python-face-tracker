@@ -6,7 +6,7 @@ CV libraries (haar classifiers) and ArcFace model for embeeding. you can use it 
 
 ## How to use it:
 
-- Copy and paste the code in your favorite code editor.
+ - Copy and paste the code in your favorite code editor.
  - Save to code in a folder of your preference.
  - Change the route of your video or image in the code.
  - Put your path direction of the haar cascades in the code.
