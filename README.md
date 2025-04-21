@@ -19,7 +19,7 @@ CV libraries (haar classifiers) and ArcFace model for embeeding. you can use it 
 
 ***1. have the ArcFace model (arcfaceresnet100-8.onnx) in the folder where you save the code:***
 
- -Download the model from a trusted repository (such as ONNX Model Zoo or ArcFace resources).
+ - Download the model from a trusted repository (such as ONNX Model Zoo or ArcFace resources).
  - Make sure to save the file in the same path as your script or set onnx_model_path to the correct location.
 
 ***2. Download the Haar Cascade Classifiers and remember their path as you must provide them in the code for it to work:***
