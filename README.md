@@ -2,7 +2,7 @@
 
 ***Face recognition for images or videos using python and opencv libraries. the principal objetive with this code
 was to track faces in videos and save it as images when the target is the correct. I did it using python, Open
-CV libraries (haar classifiers) and ArcFace model for embeeding. you can use it for tracking faces in images too.**
+CV libraries (haar classifiers) and ArcFace model for embeeding. you can use it for tracking faces in images too.***
 
 ## How to use it:
 
@@ -15,7 +15,7 @@ CV libraries (haar classifiers) and ArcFace model for embeeding. you can use it 
  - Run te code.
  - A folder is going to be created automatically with the faces saved in it in case you want to track faces in video.
 
-### TO RUN THIS CODE CORRECTLY YOU NEED TO HAVE:
+## TO RUN THIS CODE CORRECTLY YOU NEED TO HAVE:
 
 ***1. have the ArcFace model (arcfaceresnet100-8.onnx) in the folder where you save the code:***
 
